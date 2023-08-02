@@ -12,9 +12,9 @@
 
 
 ## About Me
-
-**`Data whisperer | Code magician | Dreamer of innovations 🎩✨`**
-
+     
+ **`Data whisperer | Code magician | Dreamer of innovations 🎩✨`**
+    
 🎓 Master's Student in Machine Learning for Data Science | Paris Cité University 🇫🇷 | Seeking Apprenticeship Opportunities 🌟
 
 📚 Pursuing my passion for data science and machine learning, I am currently a first-year Master's student at Paris Cité University, France. I began my academic journey in Algeria, where I completed my Bachelor's degree at the University of Abdelhamid Mehri in Constantine.
@@ -27,14 +27,26 @@
 
 🌱 I firmly believe in the power of learning and growth through inquiry, and I am constantly seeking opportunities to challenge myself and broaden my horizons.
 
-## Interests
+
+<details open>
+ <summary><h3>
+     
+## 🚀 Interests
+ </h3></summary>
+
 
 - Data Science 📊
 - Machine Learning 🤖
 - Software Engineering 💻
 - Web Development 🌐
+</details>
 
-## Skills
+
+<details open>
+ <summary><h3>
+     
+## 🔧 Skills
+</h3></summary>
 
 ### Programming Languages
 
@@ -62,6 +74,7 @@
 - HTML5 🌐
 - CSS3 🎨
 
+</details>
 
 ## Get in Touch
 
