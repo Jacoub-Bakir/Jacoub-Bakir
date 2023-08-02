@@ -78,7 +78,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jacoub-Bakir&theme=python-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 ## Get in Touch
 
-🌐 LinkedIn: [bakir-yagoub](https://www.linkedin.com/in/bakir-yagoub-264721224/)
+🌐 LinkedIn: [bakir-yagoub](https://www.linkedin.com/in/bakir-yagoub/)
 
 ✉️ Email: [yagoubbakir@gmail.com](mailto:yagoubbakir@gmail.com)
 
